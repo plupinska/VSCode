@@ -1,0 +1,28 @@
+{
+  "editor.tabSize": 2,
+  "explorer.openEditors.visible": 0,
+  "flow.useNPMPackagedFlow": true,
+  "workbench.colorTheme": "Solarized Dark",
+  "editor.tabSize": 2,
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true,
+  "editor.minimap.enabled": false,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
+  },
+  "ruby.lint": {
+    "rubocop": {
+      "lint": true
+    }
+  },
+  "extensions.ignoreRecommendations": false
+}
