@@ -1,28 +1,25 @@
 {
-  "editor.tabSize": 2,
-  "explorer.openEditors.visible": 0,
-  "flow.useNPMPackagedFlow": true,
-  "workbench.colorTheme": "Solarized Dark",
-  "editor.tabSize": 2,
-  "terminal.integrated.shell.osx": "/bin/zsh",
-  "editor.multiCursorModifier": "ctrlCmd",
-  "editor.snippetSuggestions": "top",
-  "editor.formatOnPaste": true,
-  "editor.minimap.enabled": false,
-  "gitlens.advanced.messages": {
-    "suppressCommitHasNoPreviousCommitWarning": false,
-    "suppressCommitNotFoundWarning": false,
-    "suppressFileNotUnderSourceControlWarning": false,
-    "suppressGitVersionWarning": false,
-    "suppressLineUncommittedWarning": false,
-    "suppressNoRepositoryWarning": false,
-    "suppressUpdateNotice": false,
-    "suppressWelcomeNotice": true
-  },
-  "ruby.lint": {
-    "rubocop": {
-      "lint": true
-    }
-  },
-  "extensions.ignoreRecommendations": false
-}
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "editor.tabCompletion": true,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "flow.runOnEdit": false,
+    "javascript.validate.enable": false,
+    "editor.detectIndentation": false,
+    "[ruby]": {},
+    "editor.snippetSuggestions": "top",
+    "explorer.confirmDragAndDrop": false,
+    "files.trimTrailingWhitespace": true,
+    "window.zoomLevel": -1,
+    "explorer.confirmDelete": false
+  }
